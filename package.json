@@ -1,0 +1,14 @@
+{
+  "name": "json-web-signature-token",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "fastify": "^4.24.3",
+    "jws": "^4.0.0",
+    "lodash": "^4.17.21",
+    "nodemon": "^3.0.1"
+  }
+}
